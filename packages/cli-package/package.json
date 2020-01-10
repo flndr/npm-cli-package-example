@@ -1,0 +1,9 @@
+{
+    "name"    : "cli-package",
+    "version" : "1.0.0",
+    "main"    : "index.js",
+    "license" : "MIT",
+    "bin"     : {
+        "say-hi-to" : "./cli.js"
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "consumer",
+  "version": "1.0.0",
+  "main": "index.js",
+    "scripts" : {
+        "hello" : "say-hi-to package.json"
+    },
+  "license": "MIT",
+    "dependencies" : {
+        "cli-package" : "1.0.0"
+    }
+}
